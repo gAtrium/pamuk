@@ -47,6 +47,3 @@ If you encounter any issues or would like to suggest a package name to be added 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contributing
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow the code style.
